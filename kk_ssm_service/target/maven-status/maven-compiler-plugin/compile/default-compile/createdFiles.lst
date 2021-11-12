@@ -1,0 +1,12 @@
+com\ssm\service\IUserService.class
+com\ssm\service\impl\IOrdersServiceImpl.class
+com\ssm\service\IOrdersService.class
+com\ssm\service\IRoleService.class
+com\ssm\service\ISysLogService.class
+com\ssm\service\impl\UserServiceImpl.class
+com\ssm\service\impl\IRoleServiceImpl.class
+com\ssm\service\impl\ISysLogServiceImpl.class
+com\ssm\service\IPermissionService.class
+com\ssm\service\IProductService.class
+com\ssm\service\impl\IPermissionServiceImpl.class
+com\ssm\service\impl\IProductServiceImpl.class
